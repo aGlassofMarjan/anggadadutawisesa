@@ -154,12 +154,6 @@ export default function Login() {
               </div>
               <span className="w-5/6 px-4 py-3 font-bold text-center">Sign in with Google</span>
             </a>
-
-            <div className="flex items-center justify-between mt-4">
-              <span className="w-1/5 border-b dark:border-gray-600 md:w-1/4"></span>
-              <a href="#" className="text-xs text-gray-500 uppercase dark:text-gray-400 hover:underline">or sign up</a>
-              <span className="w-1/5 border-b dark:border-gray-600 md:w-1/4"></span>
-            </div>
           </div>
         </div>
       </div>
