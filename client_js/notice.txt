@@ -1,0 +1,14 @@
+the default .eslintrc.json is the following:
+
+{
+  "extends": "next/core-web-vitals"
+}
+
+
+this produce error in my device, so i changed it like this;
+
+{
+  "extends": ["next/babel","next/core-web-vitals"]
+}
+
+you can revert .eslintrc.json if you find trouble running the app.
